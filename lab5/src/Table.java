@@ -41,7 +41,7 @@ public class Table {
         return "Стол{" +
                 "статус=" + status +
                 ", номер='" + tableId + '\'' +
-                ", заказ=" + tableOrder +
+                ", заказы=" + tableOrder +
                 '}';
     }
 }
